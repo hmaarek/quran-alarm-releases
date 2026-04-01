@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/hmaarek/quran-alarm-releases/releases/download/v1.9/firmware_core2.bin",
+  "version": "1.10",
+  "url": "https://github.com/hmaarek/quran-alarm-releases/releases/download/v1.10/firmware_core2.bin",
   "min_size": 900000,
-  "notes": "Clock overlay fix, OTA retry improvements, Release Notes"
+  "notes": "Clock overlay fix, OTA retry improvements, Release Notes, io UI updates"
 }
