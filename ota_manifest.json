@@ -2,5 +2,5 @@
   "version": "1.9",
   "url": "https://github.com/hmaarek/quran-alarm-releases/releases/download/v1.9/firmware_core2.bin",
   "min_size": 900000,
-  "notes": "Test — triggers OTA_VERSION response for OTA_START testing"
+  "notes": "Clock overlay fix, OTA retry improvements, Release Notes"
 }
