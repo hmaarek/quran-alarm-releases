@@ -1,6 +1,6 @@
 {
-  "version": "1.6",
-  "url": "https://github.com/hmaarek/quran-alarm-releases/releases/download/v1.6/firmware_core2.bin",
+  "version": "1.8",
+  "url": "https://github.com/hmaarek/quran-alarm-releases/releases/download/v1.8/firmware_core2.bin",
   "min_size": 900000,
   "notes": "Test — triggers OTA_VERSION response for OTA_START testing"
 }
